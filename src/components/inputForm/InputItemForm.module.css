@@ -1,0 +1,11 @@
+.box {
+  background-color: aquamarine;
+  margin: 5px auto;
+  width: 70%;
+  padding: 20px;
+}
+
+.input-items {
+  margin: 10px;
+  padding: 5px;
+}
